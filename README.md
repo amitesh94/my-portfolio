@@ -1,120 +1,99 @@
-# 👋 Hi, I'm Amitesh Kumar Singh  
-### 💻 Senior Software Engineer | .NET Developer | AI & React Enthusiast  
+<!-- Banner Section (Optional) -->
+<p align="center">
+  <img src="https://github.com/amitesh94/amitesh94/blob/main/banner.png" alt="Amitesh Kumar Singh | Senior Software Engineer" width="100%" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/amiteshsingh94/)
-[![GitHub](https://img.shields.io/badge/GitHub-amitesh94-black?logo=github)](https://github.com/amitesh94)
-[![Email](https://img.shields.io/badge/Email-amiteshsingh007%40hotmail.com-red?logo=gmail)](mailto:amiteshsingh007@hotmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=amitesh94&label=Profile%20Views&color=0e75b6&style=flat)
+<h1 align="center">Hi there 👋, I'm Amitesh Kumar Singh</h1>
+<h3 align="center">💻 Senior Software Engineer | .NET Developer | AI & React Enthusiast</h3>
 
----
-
-## 🧭 About Me
-Dynamic and results-driven **Senior Software Engineer** with 10+ years of experience in **Microsoft .NET technologies** — ASP.NET MVC, Web API, and SQL Server.  
-I specialize in building **enterprise-grade web applications** and **AI-driven solutions**. Passionate about **clean architecture**, **mentoring teams**, and creating impactful business software.
-
----
-
-## 🧰 Core Competencies
-- Full-Stack Development (ASP.NET MVC, Web API, Angular, React.js)  
-- Database Design, Optimization & SQL Server Administration  
-- API Integration, Microservices Architecture & Azure Cloud  
-- Agile / Scrum Methodologies, DevOps (Azure DevOps, GitHub Actions)  
-- Technical Mentorship & Code Review Best Practices  
-- Reporting & Visualization (SSRS, Power BI)  
-- AI & Automation using Python (Learning)
+<p align="center">
+  <a href="https://www.linkedin.com/in/amiteshsingh94/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:amiteshsingh007@hotmail.com"><img src="https://img.shields.io/badge/Email-amiteshsingh007%40hotmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://github.com/amitesh94"><img src="https://img.shields.io/badge/GitHub-amitesh94-black?style=for-the-badge&logo=github"></a>
+  <img src="https://komarev.com/ghpvc/?username=amitesh94&style=for-the-badge&color=brightgreen" alt="Profile views" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-### 💻 Languages & Frameworks  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-### 🗄️ Database & Reporting  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### 🧰 Tools & DevOps  
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![TFS](https://img.shields.io/badge/TFS-0066CC?style=for-the-badge&logo=visualstudio&logoColor=white)
+### 💫 About Me  
+> 👨‍💻 Passionate about building **scalable enterprise applications** and **AI-driven systems**.  
+> 🔭 Currently learning **AI + React.js** to create modern, intelligent solutions.  
+> 🧠 Strong in **.NET Framework, SQL Server, and full-stack architecture**.  
+> 🚀 Believer in **clean code, automation, and lifelong learning**.  
 
 ---
 
-## 💼 Experience
+### 🧰 Tech Stack  
 
-### **Aapna Infotech Pvt. Ltd.** — *Senior Software Engineer*  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,html,css,js,react,angular,azure,visualstudio,vscode,git,github,sqlserver,powershell" />
+</p>
+
+---
+
+### 💼 Professional Journey
+
+#### 🏢 Aapna Infotech Pvt. Ltd. — *Senior Software Engineer*  
 📆 Apr 2020 – Present  
-- Led development of **Title & Closing Services** software for US-based clients.  
-- Integrated 3rd-party APIs (Simplifile, RealEC), improving automation & accuracy.  
-- Optimized SQL queries for **30% faster performance**.  
-- Mentored junior developers and enforced coding best practices.  
-**Tech:** ASP.NET MVC, Web API, SQL Server 2019, Azure DevOps  
+- Architecting and developing **Title & Closing Services** software for US-based clients.  
+- Integrated **Simplifile** and **RealEC APIs**, automating 80% of manual processes.  
+- Mentored junior developers and drove adoption of modern .NET patterns.  
+- Improved database performance by 30% through query optimization.  
 
----
-
-### **AGR Infotech Pvt. Ltd.** — *Senior Software Engineer*  
+#### 🏢 AGR Infotech Pvt. Ltd. — *Senior Software Engineer*  
 📆 Jan 2019 – Mar 2020  
-- Designed REST APIs and backend modules for CRM & Accounting systems.  
-- Architected **multi-tenant** applications with CI/CD pipelines.  
-**Tech:** ASP.NET MVC, Web API, SQL Server 2012, TFS, SVN  
+- Built REST APIs for **CRM and accounting systems**.  
+- Introduced **CI/CD pipelines** and improved code deployment efficiency.  
 
----
-
-### **STPL Pvt. Ltd. (Lucknow)** — *Software Engineer*  
+#### 🏢 STPL Pvt. Ltd. — *Software Engineer*  
 📆 Sep 2013 – Jan 2019  
-- Delivered scalable web apps in finance, healthcare & education.  
-- Implemented **Power BI** analytics dashboards for clients.  
-**Tech:** ASP.NET MVC, LINQ, SQL Server, Kendo UI, Power BI, Angular  
+- Delivered enterprise software for **finance, healthcare, and education**.  
+- Developed BI dashboards with **Power BI** and **ASP.NET MVC**.  
 
 ---
 
-## 🏆 Achievements
+### 🏆 Achievements
 🏅 Delivered **20+ enterprise projects** for international clients.  
-🏅 Reduced development time by **25%** using reusable API frameworks.  
-🏅 Awarded **“Employee Excellence”** at Aapna Infotech.  
-🏅 Contributed to **DevOps automation** and **cloud migration initiatives**.
+🏅 Reduced dev time by **25%** with reusable API frameworks.  
+🏅 Received **Employee Excellence Award** at Aapna Infotech.  
+🏅 Active contributor to **DevOps automation & cloud deployment** initiatives.  
 
 ---
 
-## 🎓 Education
-🎓 **B.Tech (Computer Science)** – Uttar Pradesh Technical University, Lucknow — *70%*  
-🏫 **H.S.C** – Nehru Inter College — *76.2%*  
-🏫 **S.S.C** – Nehru Inter College — *73.5%*
+### 🎓 Education & Certifications
+🎓 **B.Tech (Computer Science)** – Uttar Pradesh Technical University  
+📜 **Microsoft Certified: Azure Fundamentals** *(In Progress)*  
+📜 **Python for AI & Machine Learning – Coursera** *(In Progress)*  
+📜 **Advanced SQL Optimization – Udemy**  
+📜 **Agile Project Management – LinkedIn Learning**
 
 ---
 
-## 📜 Certifications
-- Microsoft Certified: **Azure Fundamentals** *(In Progress)*  
-- **Python for AI & Machine Learning** – Coursera *(In Progress)*  
-- **Advanced SQL Server Optimization** – Udemy  
-- **Agile Project Management** – LinkedIn Learning  
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amitesh94&show_icons=true&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitesh94&layout=compact&theme=radical&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitesh94&theme=radical&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amitesh94&theme=radical&no-frame=true&row=1&margin-w=15" />
+</p>
 
 ---
 
-## 📊 GitHub Stats & Activity
+### 🌐 Let's Connect & Collaborate  
 
-<div align="center">
-
-![Amitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitesh94&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitesh94&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amitesh94&theme=tokyonight&hide_border=true)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/amiteshsingh94/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+  <a href="mailto:amiteshsingh007@hotmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+  <a href="https://github.com/amitesh94"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+</p>
 
 ---
 
-## 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/amiteshsingh94/)
-[![Email](https://img.shields.io/badge/Email-amiteshsingh007%40hotmail.com-red?logo=gmail)](mailto:amiteshsingh007@hotmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-amitesh94-black?logo=github)](https://github.com/amitesh94)
-
----
-
-⭐ *Thanks for visiting my profile! Let’s collaborate on .NET, AI, and full-stack innovations.*
+<h3 align="center">✨ Thanks for visiting my profile — Let’s build something amazing together!</h3>
