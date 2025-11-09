@@ -29,7 +29,7 @@
 ### 🧰 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,react,angular,html,css,azure,git,github,visualstudio,vscode,mssql,powershell&theme=light" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,react,angular,html,css,azure,git,github,visualstudio,vscode,mysql,powershell&theme=light" />
 </p>
 
 ---
